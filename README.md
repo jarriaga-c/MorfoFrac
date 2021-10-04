@@ -10,13 +10,13 @@ Actualmente el complemento se encuentra en las primeras etapas del desarrollo po
 
 Pasos de instalación
 
-Descargar el código de github
-Copiar la carpeta “fractaliadj”
-Pegar la carpeta copiada en el ruta “C:\Users\”usuarios”\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins”
-Buscar complemento instalado en Qgis en la caja de herramientas con el nombre "Fractalidad".
-En caso de no aparecer favor de ir a complementos / administrar e instalar complementos / instalado
-Buscar Morfofrac y activarlo.
+* Descargar el código de github
+* Copiar la carpeta “fractaliadj”
+* Pegar la carpeta copiada en el ruta “C:\Users\”usuarios”\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins”
+* Buscar complemento instalado en Qgis en la caja de herramientas con el nombre "Fractalidad".
+* En caso de no aparecer favor de ir a complementos / administrar e instalar complementos / instalado
+* Buscar Morfofrac y activarlo.
 
-Una vez que se el programa ha devuelto la relación de número de cuadros utilizados, Se pega esa línea en el archivo anexo de Excel, en los cuadros amarillos, etnonces en el cuadro azul aparecerá la dimensión rfactal estimada. 
+Una vez que se el programa ha devuelto la relación de número de cuadros utilizados, Se pega esa línea en el archivo anexo de Excel, en los cuadros amarillos, etnonces en el cuadro azul aparecerá la dimensión factal estimada. 
 
 En la próxima versión el mismo programa dará la dimensión.
